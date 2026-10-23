@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="./ghost.gif" width="750" alt="Animated ASCII ghost"/>
+  <img src="./ghost.gif" width="900" alt="Animated ASCII ghost"/>
 </p>
 
 <h1 align="center">
