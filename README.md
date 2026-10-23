@@ -195,3 +195,11 @@ A machine learning application focused on loan-default risk prediction.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:76B900,50:142B16,100:050505&height=110&section=footer" width="100%" alt="Green footer banner"/>
 
 </div>
+
+<div align="center">
+  <img
+    src="./profile-3d-contrib/profile-green-animate.svg"
+    width="100%"
+    alt="3D GitHub contribution graph"
+  />
+</div>
