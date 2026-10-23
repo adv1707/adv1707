@@ -3,9 +3,22 @@
 <div align="center">
 
   
-<img src="./ghost.gif" width="350" alt="Animated ASCII ghost"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:142B16,100:76B900&height=220&section=header&text=Aditya%20Verma&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=ECE%20%7C%20AI%2FML%20%7C%20Hardware&descSize=18&descAlignY=55" width="100%" alt="Aditya Verma profile banner"/>
+
+<p align="center">
+  <img src="./ghost.gif" width="120" alt="Animated ASCII ghost"/>
+</p>
+
+<h1 align="center">
+  💠 Aditya Kumar Verma 💠
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ECE-AI%2FML-00F5FF?style=for-the-badge&labelColor=17102B" alt="ECE and AI/ML"/>
+  <img src="https://img.shields.io/badge/HARDWARE-CYBERPUNK-FF2BD6?style=for-the-badge&labelColor=17102B" alt="Hardware and cyberpunk"/>
+</p>
+
+
 
 
   <a href="https://github.com/adv1707">
