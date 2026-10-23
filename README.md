@@ -2,7 +2,11 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:142B16,100:76B900&height=220&section=header&text=Aditya%20Verma&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=ECE%20%7C%20AI%2FML%20%7C%20Hardware&descSize=18&descAlignY=55" width="100%" alt="Aditya Verma profile banner"/>
+  
+<img src="./ghost.gif" width="100" alt="Animated ASCII ghost"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:142B16,100:76B900&height=220&section=header&text=Aditya%20Verma&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=ECE%20%7C%20AI%2FML%20%7C%20Hardware&descSize=18&descAlignY=55" width="100%" alt="Aditya Verma profile banner"/>
+
 
   <a href="https://github.com/adv1707">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=76B900&center=true&vCenter=true&width=650&lines=ECE+%C3%97+AI%2FML+%C3%97+Hardware;Building+with+Python+%26+Machine+Learning;Learning.+Experimenting.+Building.;Working+towards+AI+%26+Hardware+Engineering." alt="Typing animation"/>
