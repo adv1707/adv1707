@@ -146,12 +146,15 @@ A machine learning application focused on loan-default risk prediction.
 
 ## ⏱️ Coding Activity
 
+## ⏱️ Coding Activity
+
 <div align="center">
-
-  <a href="https://wakatime.com/">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=96f1c7aa-45ab-42b0-a68f-fa53e50b2b0&layout=compact&hide_border=true&bg_color=0D1117&title_color=76B900&text_color=C9D1D9" alt="WakaTime coding activity"/>
+  <a href="https://wakatime.com/@96f1c7aa-45ab-42b0-a68f-fa53e50b2b0">
+    <img
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=96f1c7aa-45ab-42b0-a68f-fa53e50b2b0&theme=transparent&hide_border=true&layout=compact&langs_count=8"
+      alt="WakaTime Coding Statistics"
+    />
   </a>
-
 </div>
 
 *WakaTime statistics will appear after you set up WakaTime and replace `YOUR_WAKATIME_USERNAME` with your actual WakaTime username.*
