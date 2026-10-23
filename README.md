@@ -148,6 +148,11 @@ A machine learning application focused on loan-default risk prediction.
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
