@@ -5,18 +5,20 @@
   
 
 
+
 <p align="center">
-  <img src="./ghost.gif" width="120" alt="Animated ASCII ghost"/>
+  <img src="./ghost.gif" width="450" alt="Animated ASCII ghost"/>
 </p>
 
 <h1 align="center">
-  💠 Aditya Kumar Verma 💠
+  <span style="color:#00F5FF;">Aditya</span>
+  <span style="color:#FF2BD6;">Kumar Verma</span>
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ECE-AI%2FML-00F5FF?style=for-the-badge&labelColor=17102B" alt="ECE and AI/ML"/>
-  <img src="https://img.shields.io/badge/HARDWARE-CYBERPUNK-FF2BD6?style=for-the-badge&labelColor=17102B" alt="Hardware and cyberpunk"/>
+  <samp style="color:#00F5FF;">[ ECE × AI/ML × HARDWARE ]</samp>
 </p>
+
 
 
 
