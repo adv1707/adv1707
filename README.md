@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="./ghost.gif" width="450" alt="Animated ASCII ghost"/>
+  <img src="./ghost.gif" width="750" alt="Animated ASCII ghost"/>
 </p>
 
 <h1 align="center">
@@ -29,10 +29,6 @@
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=adv1707&style=for-the-badge&color=76B900&label=PROFILE+VIEWS" alt="Profile views"/>
-  <a href="https://github.com/adv1707?tab=followers">
-    <img src="https://img.shields.io/github/followers/adv1707?style=for-the-badge&color=76B900&labelColor=101010&label=FOLLOWERS" alt="GitHub followers"/>
-  </a>
 
   <br/><br/>
 
