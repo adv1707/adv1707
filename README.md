@@ -3,7 +3,7 @@
 <div align="center">
 
   
-<img src="./ghost.gif" width="100" alt="Animated ASCII ghost"/>
+<img src="./ghost.gif" width="200" alt="Animated ASCII ghost"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:142B16,100:76B900&height=220&section=header&text=Aditya%20Verma&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=ECE%20%7C%20AI%2FML%20%7C%20Hardware&descSize=18&descAlignY=55" width="100%" alt="Aditya Verma profile banner"/>
 
