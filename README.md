@@ -78,48 +78,7 @@ I enjoy turning concepts into working projects, understanding the logic behind a
 
 ---
 
-## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 📱 Phone Price Category Classifier
-
-A machine learning project that predicts a smartphone's price category from its specifications.
-
-**Highlights**
-- Classification using scikit-learn.
-- Experimentation with multiple classification algorithms.
-- A Streamlit web application for interactive predictions.
-
-**Tech:** Python · Pandas · scikit-learn · Streamlit
-
-[🚀 Live Demo](https://phone-price-category-classifier.streamlit.app/) · [📂 Source Code](https://github.com/adv1707/phone-price-category-classifier)
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🛡️ Loan Fraud Predictor
-
-A machine learning application focused on loan-default risk prediction.
-
-**Highlights**
-- Data preprocessing and feature engineering.
-- Classification model experiments.
-- Evaluation with particular attention to recall.
-
-**Tech:** Python · Pandas · scikit-learn · Machine Learning
-
-[📂 Source Code](https://github.com/adv1707/YOUR_LOAN_FRAUD_REPOSITORY)
-
-    </td>
-  </tr>
-</table>
-
-> **Note:** Replace `YOUR_LOAN_FRAUD_REPOSITORY` in the link above with the actual repository name before publishing.
-
----
 
 ## 📊 GitHub Analytics
 
