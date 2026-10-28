@@ -1,4 +1,4 @@
-# 🟢 adv1707 | ECE × AI/ML × Hardware
+  # 🟢 adv1707 | ECE × AI/ML × Hardware
 
 <div align="center">
 
@@ -47,8 +47,8 @@ I enjoy turning concepts into working projects, understanding the logic behind a
 - 🧠 Exploring Machine Learning and Deep Learning with Python.
 - 🐍 Building projects using Python and its ML ecosystem.
 - ⚡ Strengthening my Data Structures and Algorithms fundamentals.
-- 🔬 Interested in AI acceleration, computing systems, and hardware engineering.
-- 🎯 Long-term goal: work at **NVIDIA** and contribute to technologies at the intersection of AI and computing.
+- 🔬 Interested in AI acceleration,Deep Learning and LLMs ,computing systems, and hardware engineering.
+
 
 > I believe in learning by building — one concept, one experiment, and one project at a time.
 
@@ -175,10 +175,4 @@ TOML     7 mins                ▓░░░░░░░░░░░░░░░�
 
 </div>
 
-<div align="center">
-  <img
-    src="./profile-3d-contrib/profile-green-animate.svg"
-    width="100%"
-    alt="3D GitHub contribution graph"
-  />
-</div>
+
