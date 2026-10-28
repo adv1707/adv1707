@@ -152,8 +152,8 @@ TOML     7 mins                ▓░░░░░░░░░░░░░░░�
   <a href="https://github.com/adv1707">
     <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-<a href="https://instagram.com/adityav_3423">
-  <img src="https://shields.io" alt="Instagram"/>
+<a href="https://www.instagram.com/adityav_3423/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
   <!-- Add your LinkedIn profile when ready -->
