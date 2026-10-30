@@ -124,11 +124,11 @@ I enjoy turning concepts into working projects, understanding the logic behind a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2026 - To: 28 October 2026
+From: 22 October 2026 - To: 29 October 2026
 
-Python   7 hrs 41 mins         ████████████████████████░   95.95 %
-CSV      12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-TOML     7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Python   10 hrs 1 min          ███████████████████████▓░   94.91 %
+CSV      24 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+TOML     7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
